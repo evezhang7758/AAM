@@ -1,2 +1,4 @@
 # AAM
-Advanced Air Mobility (AAM) Simulation Platform
+This Simulation Platform is capable of simulating on-demand distribution of eVTOL using Python, complemented by visualization through the AnyLogic tool. Building on this foundation, we conducted a case study focusing on the Tampa Bay area in Florida, USA. The simulation platform was validated, and subsequent impact analysis was conducted on the operation and performance of the Urban Air Mobility (UAM) system in Tampa Bay.
+
+The results indicate that the on-demand air traffic system in the given scenario effectively caters to the transportation needs of the majority of passengers. The implemented air traffic simulation platform can be adapted for simulating eVTOL operations in various geographic areas and has the potential to contribute to the development and planning of air traffic systems.
